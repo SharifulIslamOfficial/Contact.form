@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main{
+    width:750px;
+    margin: 0px auto;
+    padding: 10px 15px;
+    background-color: blueviolet;
+    text-align: center;
+    border: 1px solid salmon;
+}
+.top h1{
+    width:719px;
+    font-size: 50px;
+    padding: 10px 8px;
+  background-color: aquamarine;  
+}
+.button{
+    width: 719px;
+    background-color: green;
+}
+.one,.two,.three,.four,.five,.six{
+    width: 719px;
+    margin: 10px auto;
+    background-color: blanchedalmond;
+}
+.one input,.two input,.three input,.four input,.five input{
+width: 719px;
+height: 30px;
+background-color: moccasin;
+color: black;
+border: none;
+font-size: 20px;
+}
+.six textarea{
+    width: 719px;
+    height: 300px; 
+    background-color: mistyrose; 
+    font-size: 25px;
+    color: green;
+}
+.seven button{
+    height: 40px;
+    width: 220px;
+    background-color:yellowgreen;
+    text-align: center;
+    border: none;
+    font-size: 30px;
+}
